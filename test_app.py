@@ -1,5 +1,5 @@
-# test_app.py
 import app
+
 
 def test_hello():
     client = app.app.test_client()
